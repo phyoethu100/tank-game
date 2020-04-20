@@ -23,4 +23,4 @@ For player two, the controls for the movement are in the arrow keys (top, bottom
 
 Each life destroyed by the enemy tank allows the winner player to score 1 point and the player will win once they reaches 3 points. Once the game ends, "GAME OVER" will display on the game screen.  
 
-There are five random power ups, which are the small campfires, in the game that will give the following attributes: Damage boost by 20%, damage boost by 40%, health boost by 10% , health boost by 30% and lives count increases by 1.
+There are five random power ups in the game, which are the small campfires, that will give the following attributes: Damage boost by 20%, damage boost by 40%, health boost by 10% , health boost by 30% and lives count increases by 1.
