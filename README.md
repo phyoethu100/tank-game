@@ -11,7 +11,7 @@
 ## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
 
 
-About the game:
+## About the game:
 
 The project was made in IntelliJ IDEA 2019.3.2 with the Java version 1.8. The current working directory of the game is Start class, which is the main class that runs the game. The resources with all the images and sounds are under src/resource folder. The source codes are under tank package in src/tank folder. 
 
@@ -23,4 +23,4 @@ For player two, the controls for the movement are in the arrow keys (top, bottom
 
 Each life destroyed by the enemy tank allows the winner player to score 1 point and the player will win once they reaches 3 points. Once the game ends, "GAME OVER" will display on the game screen.  
 
-There are five random power ups in the game that will give the following attributes: Damage boost by 20%, damage boost by 40%, health boost by 10% , health boost by 30% and lives count increases by 1.
+There are five random power ups, which are the small campfires, in the game that will give the following attributes: Damage boost by 20%, damage boost by 40%, health boost by 10% , health boost by 30% and lives count increases by 1.
